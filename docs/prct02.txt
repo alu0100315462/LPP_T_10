@@ -1,1 +1,2 @@
-Trabajo en equipo con git
+Trabajo en equipo con git 
+Los lenguajes compilados traducen las instrucciones a código máquina y crea un archivo ejecutable, los interpretados traducen las intrucciones una por una y las ejecutan, sin producir un fichero ejecutable.
