@@ -1,2 +1,12 @@
 Trabajo en equipo con git 
+
+¿Cuál es la diferencia entre compilación e interpretación?
 Los lenguajes compilados traducen las instrucciones a código máquina y crea un archivo ejecutable, los interpretados traducen las intrucciones una por una y las ejecutan, sin producir un fichero ejecutable.
+
+¿Cuál es la principal diferencia entre el contenido del ﬁchero helloWorld.sh y helloWorld.rb?
+helloWorld.sh utiliza la shell para ejecutar los comandos, que se llaman en el propio fichero.
+helloWorld.rb utiliza una función del lenguaje ruby, para ejecutarla debemos usar el interprete de ruby.
+
+¿Qué significado tiene la primera línea del ﬁchero helloWorld.sh?
+Es una llamada a la shell que se especifica.
+
